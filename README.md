@@ -1,4 +1,4 @@
-# dynasty-scraper
+# dynasty-scans-scraper
 
 I really wanted to read futaribeya on my kindle so I made this.
 
